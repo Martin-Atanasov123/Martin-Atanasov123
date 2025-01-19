@@ -26,11 +26,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Martin Atanasov](https://www.linkedin.com/in/martin-atanasov/)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email**: [your-email@example.com](mailto:matanasov573@gmail.com)
+
 
 ## 🌟 Featured Projects
+
+only time will show 😉
 
 ### 🎮 [Advanced Tetris Game](https://github.com/Martin-Atanasov123/tetris-game)
 A modern take on the classic Tetris game with vibrant colors and smooth gameplay.
@@ -41,10 +42,7 @@ A brief description of the project and its key features.
 ### 🌐 [Another Project](https://github.com/Martin-Atanasov123/another-project)
 A brief description of the project and its key features.
 
-## 📝 Blog Posts
 
-- [Blog Post Title](https://your-blog-link.com)
-- [Another Blog Post](https://your-blog-link.com)
 
 ## 🎉 Fun Facts
 
