@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:matanasov573@gmail.com)
+- **Email**: [matanasov573@gmail.com](mailto:matanasov573@gmail.com)
 
 
 ## 🌟 Featured Projects
@@ -47,7 +47,7 @@ A brief description of the project and its key features.
 ## 🎉 Fun Facts
 
 - I love solving puzzles and playing strategy games.
-- I'm a coffee enthusiast ☕.
+- I love to play on my guitar 🎸.
 - I enjoy hiking and exploring nature 🌲.
 
 ---
