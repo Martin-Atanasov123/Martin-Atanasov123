@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Martin Atanasov!
+# 👋 Hello, I'm Martin !
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative and efficient solutions. Here you'll find a collection of my projects, contributions, and interests.
 
