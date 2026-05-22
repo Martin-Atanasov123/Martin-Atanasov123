@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 I’m open to collaborating on interesting projects.
-- 🎓 I have a background in [Your Field/Studies].
-- 💬 Ask me about anything related to [Your Expertise].
+- 🎓 I have a background in Front-end .
+- 💬 Ask me about anything related to web-development
+- .
 
 ## 🛠️ Technologies & Tools
 
