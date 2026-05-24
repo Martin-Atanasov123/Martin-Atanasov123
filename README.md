@@ -48,10 +48,15 @@ A modern browser-based Tetris implementation featuring responsive controls, prec
 
 ## 📊 GitHub Analytics
 
+### ⚡ Activity & Contribution Matrix
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=Martin-Atanasov123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Martin's GitHub Stats" height="185px" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs/?username=Martin-Atanasov123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="185px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Martin-Atanasov123&theme=tokyonight&bg_color=0a0e17&hide_border=true&area=true" alt="Martin's Contribution Graph" width="100%" />
+</p>
+
+### 📈 Core Profile Dynamics
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martin-Atanasov123&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martin-Atanasov123&theme=tokyonight" alt="Most Commit Language" width="49%" />
 </p>
 
 ---
