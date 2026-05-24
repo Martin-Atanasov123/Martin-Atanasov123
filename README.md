@@ -1,57 +1,75 @@
-# 👋 Hello, I'm Martin !
+# 👋 Martin Atanasov
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative and efficient solutions. Here you'll find a collection of my projects, contributions, and interests.
+Frontend-focused developer from Bulgaria building modern web apps, automation tools, and practical software for real users. 
 
-## 🚀 About Me
-
-- 🌱 I’m currently learning and exploring new technologies.
-- 💼 I’m open to collaborating on interesting projects.
-- 🎓 I have a background in Front-end .
-- 💬 Ask me about anything related to web-development
-- .
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-Atanasov123&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-
-- **Email**: [matanasov573@gmail.com](mailto:matanasov573@gmail.com)
-
-
-## 🌟 Featured Projects
-
-only time will show 😉
-
-### 🎮 [Advanced Tetris Game](https://github.com/Martin-Atanasov123/tetris-game)
-A modern take on the classic Tetris game with vibrant colors and smooth gameplay.
-
-### 📊 [Project Name](https://github.com/Martin-Atanasov123/project-name)
-A brief description of the project and its key features.
-
-### 🌐 [Another Project](https://github.com/Martin-Atanasov123/another-project)
-A brief description of the project and its key features.
-
-
-
-## 🎉 Fun Facts
-
-- I love solving puzzles and playing strategy games.
-- I love to play on my guitar 🎸.
-- I enjoy hiking and exploring nature 🌲.
+I care about clean UI, fast workflows, and shipping projects instead of endlessly planning them.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat. Have a great day! 😊
+## 🚀 Current Focus
 
+- **Modern Frontend:** Building responsive web applications with modern tooling and component architecture.
+- **Full-Stack Growth:** Implementing scalable app structures and secure database integration.
+- **Velocity:** Leveraging AI-assisted development tools to prototype, debug, and iterate rapidly.
+- **Freelance & Client Work:** Creating bespoke websites and digital solutions for small businesses.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Frameworks & Tooling
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### UI & Styling
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Infrastructure
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 [Uni-put](https://github.com/Martin-Atanasov123)
+A university admission calculator focused on the Bulgarian higher education system. Built to simplify score calculations, compare admission chances based on complex institutional formulas, and organize university data dynamically in one place.
+
+### ♠️ [Belot](https://github.com/Martin-Atanasov123/belot)
+A real-time, browser-based Bulgarian Belot game for four players. Built with a strict authoritative-server / pure-engine architecture so the rules cannot be cheated client-side, the game state is fully deterministic, and every play is unit-tested.
+
+### 🎮 [Advanced Tetris Game](https://github.com/Martin-Atanasov123/tetris-game)
+A modern browser-based Tetris implementation featuring responsive controls, precise state management, smooth gameplay loops, and a clean, vibrant user interface.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=Martin-Atanasov123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Martin's GitHub Stats" height="185px" />
+  
+  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs/?username=Martin-Atanasov123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="185px" />
+</p>
+
+---
+
+## ⚡ Workflow & Interests
+
+- **AI-Assisted Dev:** Advanced prompting, agentic workflows, and fast prototyping.
+- **UI/UX Design:** System-driven design, consistency, and highly responsive user layouts.
+- **Productivity Automation:** Custom scripts and optimized environment workflows.
+- **Interests:** Quantitative strategy games, capital markets, and playing guitar 🎸.
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Portfolio / Business:** [digitalnobg.com](https://digitalnobg.com)
+- 📧 **Email:** [matanasov573@gmail.com](mailto:matanasov573@gmail.com)
+
+---
+
+> “Execution beats ideas that never leave the notebook.”
