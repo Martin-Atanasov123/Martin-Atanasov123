@@ -1,281 +1,243 @@
 <div align="center">
 
-# Martin Atanasov
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:1f3b73,100:1f6feb&height=180&section=header&text=Martin%20Atanasov&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Product%20Engineer%20%C2%B7%20Web%20%C2%B7%20Windows%20%C2%B7%20Android&descSize=16&descAlignY=58" width="100%" alt="Martin Atanasov — Product Engineer" />
 
-### Product engineer · Web · Windows · Android
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=I+ship+finished+software%2C+not+demos.;Local-first+%C2%B7+private+%C2%B7+offline+by+design.;Tested+cores.+Measured+budgets.+Tagged+releases." alt="Tagline" />
 
-**I ship finished software.** Tested, documented, released — not demos.
-From a university-admission platform used by Bulgarian students to native
-Windows utilities and fully offline, on-device AI tools.
+<br><br>
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martin-atanasov.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matanasov573@gmail.com)
+[![Pleven](https://img.shields.io/badge/Pleven,_BG-2ECC71?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Open to work](https://img.shields.io/badge/Open_to_work-8A2BE2?style=for-the-badge&logo=handshake&logoColor=white)](mailto:matanasov573@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-martin--atanasov.netlify.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martin-atanasov.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-matanasov573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matanasov573@gmail.com)
-[![Location](https://img.shields.io/badge/Pleven-Bulgaria-2ECC71?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Open to work](https://img.shields.io/badge/Open_to-Opportunities-8A2BE2?style=for-the-badge&logo=handshake&logoColor=white)](mailto:matanasov573@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
 
 </div>
 
----
+## 👋 About
 
-## About
+I build **complete products** across web, Windows and Android — each one shipping with a
+tested core, written architecture decisions, measured performance budgets, and a release
+people can actually download.
 
-I build complete products across three platforms. A typical project of mine ships with
-a unit-tested core, written architecture decisions, a manual test matrix, performance
-budgets measured against real numbers, and a tagged release people can actually download.
+> 🔐 **Local-first by architecture, not policy.** `ShotKeep` ships without the internet
+> permission, so it *cannot* upload. `FlowLocal` runs Whisper and an LLM fully offline.
+> `Nowdrop` moves files over your own Wi-Fi. No telemetry, no accounts, no cloud.
+>
+> 🧪 **Correctness you can prove.** Pure, deterministic cores kept apart from I/O — so a
+> 102-test rules engine can assert *behaviour* instead of implementation.
 
-Two principles run through almost everything I make:
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
+</div>
 
-- **Local-first and private.** No telemetry, no accounts, no cloud round-trip. `FocusLens`
-  stores everything in a local SQLite file, `FlowLocal` runs Whisper and an LLM entirely
-  offline, `ShotKeep` ships without the internet permission so it *cannot* upload, and
-  `Nowdrop` moves files over your own Wi-Fi.
-- **Correctness you can prove.** Pure, deterministic cores separated from I/O so the rules
-  can be tested — a 102-test rules engine in `Belot`, 62 tests behind the `FocusLens` agent,
-  on-device verification gates in `ShotKeep`.
-
----
-
-## Flagship Work
+## 🚀 Flagship Work
 
 ### 🎓 УниПът — University Admission Platform
-[![Live](https://img.shields.io/badge/Live-uniput.eu-success?style=flat-square&logo=netlify&logoColor=white)](https://uniput.eu/)
-[![Repo](https://img.shields.io/badge/Source-Uni--put-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/Uni-put)
 
-A free platform helping Bulgarian students calculate their admission score, find a career
-direction, and compare universities in one place.
+[![Live](https://img.shields.io/badge/%E2%96%B6_Live-uniput.eu-3ECF8E?style=flat-square)](https://uniput.eu/)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/Uni-put)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,supabase,postgres&theme=dark" height="28" align="right" />
 
-- **Score calculator** that applies each programme's official formula and automatically
-  selects the best-scoring grade for every slot
-- **Career advisor** — RIASEC personality assessment in 30 / 60 / 90-question versions,
-  mapped to matching programmes via the O\*NET database
-- **University & dormitory search** with filtering by institution, faculty, programme and city,
-  plus favourites, grade management, user profiles and an admin data-management role
+A free platform helping Bulgarian students **calculate their admission score, find a career
+direction, and compare universities** in one place. The calculator applies each programme's
+official formula and auto-selects the best grade for every slot; a RIASEC assessment
+(30/60/90 questions) maps personality to matching programmes via the O\*NET database.
 
-`React 19` · `Vite 6` · `React Router 7` (fully lazy-loaded) · `Tailwind CSS 4 + DaisyUI` ·
-`Framer Motion` · `Three.js / R3F` · `Supabase (Postgres + Auth + Storage)` · `Vitest`
+<sub>`React 19` · `Vite 6` · `Tailwind 4 + DaisyUI` · `Framer Motion` · `Three.js` · `Supabase` · `Vitest`</sub>
 
 ---
 
 ### ♠️ Белот онлайн — Real-Time Multiplayer Card Game
-[![Repo](https://img.shields.io/badge/Source-belot-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/belot)
-![Tests](https://img.shields.io/badge/engine_tests-102-brightgreen?style=flat-square)
 
-Four-player Bulgarian Belot in the browser, built on a strict **authoritative-server /
-pure-engine** architecture: the client only renders state and sends intents, so the rules
-cannot be cheated client-side.
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/belot)
+[![Engine tests](https://img.shields.io/badge/engine_tests-102-3ECF8E?style=flat-square)](https://github.com/Martin-Atanasov123/belot)
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,docker&theme=dark" height="28" align="right" />
 
-- **Cheat-proof by design.** The server validates every action against a pure rules engine
-  and emits one `PlayerView` per seat with hidden hands masked — no card ever leaks over the wire
-- **Complete official ruleset** — bidding (♣♦♥♠/NT/AT), contra/re-contra, capot,
-  terca/kvarta/quinta, carrés, belot, suspended-hand carry, divide-by-10 scoring
-- **102 scenario-driven engine tests** covering rankings, legal moves, announcement edge cases,
-  scoring, and full deterministic hand replays from fixed seeds
-- **Heuristic bots** that evaluate each contract against their hand, with tunable randomness
-- Bilingual BG/EN UI with Cyrillic-aware typography, mobile-responsive across three breakpoints
+Four-player Bulgarian Belot in the browser, built **cheat-proof by design**: the client only
+renders state and sends intents, while the server validates every action against a pure rules
+engine and emits one masked `PlayerView` per seat — no card ever leaks over the wire.
+Complete official ruleset, heuristic bots, bilingual BG/EN, mobile-responsive.
 
-`TypeScript` monorepo (shared / engine / server / client) · `Fastify + Socket.IO` · `React + Vite` ·
-`Zustand` · `Framer Motion` · `Docker` (47 KB ESM server bundle) · `Render + Netlify`
+<sub>`TypeScript` monorepo · `Fastify + Socket.IO` · `React + Vite` · `Zustand` · `Docker` · `Render + Netlify`</sub>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
+</div>
 
-### 🪟 EdgeStage — Stage Manager for Windows
+## 🛠️ Shipped Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪟 EdgeStage
+
 [![Release](https://img.shields.io/github/v/release/Martin-Atanasov123/EdgeStage?style=flat-square&label=release&color=60CDFF)](https://github.com/Martin-Atanasov123/EdgeStage/releases/latest)
 [![CI](https://img.shields.io/github/actions/workflow/status/Martin-Atanasov123/EdgeStage/ci.yml?style=flat-square&label=CI)](https://github.com/Martin-Atanasov123/EdgeStage/actions)
-[![Repo](https://img.shields.io/badge/Source-EdgeStage-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/EdgeStage)
 
-A window switcher driven by **live previews** at the edge of your screen. Rest the pointer at
-the edge or hit a hotkey, click a preview, and it zooms into the real window.
+Stage Manager for Windows. **Live DWM thumbnails** at the screen edge — a video keeps
+playing in the preview. Click one and it zooms into the real window. Plus an Exposé grid
+of every window at once.
 
-- Real **DWM thumbnails**, not screenshots — a video keeps playing, a terminal keeps scrolling
-- **Exposé view**: every window at once in an adaptive grid, previews flying out of the real windows
-- Opens **without stealing focus**, so you keep typing; ignored during window drags and full-screen apps
-- Search-as-you-type, group-by-app, close-from-card, hidden-app rules, hold-to-switch
-- Multi-monitor and DPI aware · full theming (accent, density, radius, motion) applied live
-- **No network, no telemetry, no admin rights** — ~0.1% of one CPU core idle
+Opens *without stealing focus*. No network, no telemetry, ~0.1% CPU idle.
 
-`C# / .NET 10` · `WPF` · `Win32 + DWM interop` · `PowerShell` · GitHub Actions CI
+<img src="https://skillicons.dev/icons?i=cs,dotnet,powershell&theme=dark" height="26" />
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📡 Nowdrop — Cross-Device File Transfer
-[![Site](https://img.shields.io/badge/Site-nowdrop.netlify.app-success?style=flat-square&logo=netlify&logoColor=white)](https://nowdrop.netlify.app/)
-[![Release](https://img.shields.io/github/v/release/Martin-Atanasov123/nowdrop-downloads?style=flat-square&label=preview&color=orange)](https://github.com/Martin-Atanasov123/nowdrop-downloads/releases/latest)
+### 📡 Nowdrop
 
-AirDrop-style transfer between **Mac, Windows PC and Android** — files, links, text and
-clipboard, over your own Wi-Fi. Shipped as signed-pending installers for all three platforms,
-iterated across **22 preview releases**.
+[![Site](https://img.shields.io/badge/%E2%96%B6_nowdrop.netlify.app-3ECF8E?style=flat-square)](https://nowdrop.netlify.app/)
+[![Preview](https://img.shields.io/github/v/release/Martin-Atanasov123/nowdrop-downloads?style=flat-square&label=preview&color=orange)](https://github.com/Martin-Atanasov123/nowdrop-downloads/releases/latest)
 
----
+AirDrop-style transfer between **Mac, Windows and Android** — files, links, text and
+clipboard, over your own Wi-Fi.
 
-### 🔒 FocusLens — Privacy-First Screen Time Tracker
-[![Release](https://img.shields.io/github/v/release/Martin-Atanasov123/FocusLens?style=flat-square&label=release&color=blue)](https://github.com/Martin-Atanasov123/FocusLens/releases/latest)
-[![Repo](https://img.shields.io/badge/Source-FocusLens-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/FocusLens)
-![Tests](https://img.shields.io/badge/agent_tests-62-brightgreen?style=flat-square)
+Signed-pending installers for all three platforms, iterated across **22 preview releases**.
 
-Three clients, one local database, **zero cloud**. A tray agent tracks active-window time on
-Windows, a Chrome MV3 extension adds per-domain browser time, and an Android app adds phone usage —
-all landing in one local SQLite file behind an HTML dashboard. No accounts, no uploads.
+![Windows](https://img.shields.io/badge/Windows-.msi-0078D4?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-.zip-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-.apk-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-- The extension sends **only hostnames, never full URLs**, and only to `127.0.0.1`, buffering
-  locally while the agent is offline
-- The Android side doubles as a standalone app blocker enforcing daily limits via an always-on
-  foreground service
-- Paired by local token / QR; ships with architecture and tech-decision records
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Python` (tray agent, 1 Hz sampler, Flask, PyInstaller) · `TypeScript` · `Chrome MV3` ·
-`Expo / React Native` · `Kotlin` · `SQLite` · `Vitest + pytest`
+### 🎙️ FlowLocal
 
----
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/Voice-to-text)
+[![Offline](https://img.shields.io/badge/100%25-offline-8A2BE2?style=flat-square)](https://github.com/Martin-Atanasov123/Voice-to-text)
 
-### 🎙️ FlowLocal — Offline Voice-to-Text
-[![Repo](https://img.shields.io/badge/Source-Voice--to--text-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/Voice-to-text)
+Hold CapsLock → speak → release, and clean text lands in whatever app has focus.
+**Fully offline** Whisper + local LLM.
 
-Hold CapsLock → speak → release, and cleaned-up text is pasted into whatever app has focus.
-**100% offline**: Whisper for recognition, a local LLM via Ollama for cleanup.
+Detects your GPU and picks models sized to actual VRAM. Select any text anywhere to
+rewrite it; dictate an instruction and it writes the text for you. EN/BG, auto-detected.
 
-- **Hardware-adaptive setup** — detects your GPU and pulls cleanup models sized to actual VRAM;
-  Whisper re-checks free VRAM at every startup and picks the best model that fits
-- **Rewrite mode** — select text anywhere, press `Ctrl+CapsLock`, pick Professional / Friendly /
-  Shorter / Longer / Email / Fix grammar; works on any text in any app
-- **Command mode** — dictate an instruction and it writes the requested text for you
-- Bilingual EN/BG, auto-selected from your current keyboard layout
+<img src="https://skillicons.dev/icons?i=python,powershell&theme=dark" height="26" />
 
-`Python` · `Whisper` · `Ollama` · `PowerShell` bootstrap · Windows tray app
+</td>
+<td width="50%" valign="top">
 
----
+### 😀 QuickEmoji
 
-### 😀 QuickEmoji — Hotkey Emoji Insertion
-[![Repo](https://img.shields.io/badge/Source-QuickEmoji-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/QuickEmoji)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/QuickEmoji)
+[![Search](https://img.shields.io/badge/search-0.10ms-3ECF8E?style=flat-square)](https://github.com/Martin-Atanasov123/QuickEmoji)
 
-Press `Win+Shift+E` anywhere, type a word, press Enter — the best emoji appears where you were
-typing, via Unicode injection with a clipboard fallback for elevated targets.
+Press `Win+Shift+E`, type a word, hit Enter — the best emoji appears where you were typing.
 
-Built against explicit **performance budgets**, measured rather than assumed:
+Built to **published performance budgets, measured not assumed**: 0.10 ms search,
+0.69 s cold start, 0% idle CPU. Per-app overrides, skin tones, multi-language.
 
-| Metric | Budget | Measured |
-|---|---|---|
-| Search core per query | ≤ 5 ms (p95) | ≈ 0.10 ms warm |
-| Catalog load | ≤ 150 ms | 26–56 ms (asserted in CI) |
-| Enter → emoji in target app | ≤ 150 ms | ≈ 2 ms |
-| Cold start → tray ready | ≤ 1.5 s | ≈ 0.69 s |
-| Idle CPU | 0% — no polling | 0% (no timers while hidden) |
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="26" />
 
-Fuzzy multi-language search, per-app insertion overrides, skin-tone preference, font-capability
-filtering, and a diagnostics export.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`C# / .NET 10` · `Windows App SDK` · `WinUI / XAML` · global hotkeys & input injection
+### 📱 ShotKeep
 
----
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/No-ScreenShot)
+[![No internet](https://img.shields.io/badge/no_internet_permission-8A2BE2?style=flat-square)](https://github.com/Martin-Atanasov123/No-ScreenShot)
 
-### 📱 ShotKeep — On-Device Screenshot Triage
-[![Repo](https://img.shields.io/badge/Source-No--ScreenShot-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/No-ScreenShot)
+Catches each new screenshot and offers **Keep / Delete / Later** from a notification,
+classifying it on-device.
 
-Android app that catches each new screenshot and offers **Keep / Delete / Later** straight from a
-heads-up notification, classifying it on-device. **No internet permission** — it cannot upload,
-even by mistake.
+Ships **without the internet permission** — it cannot upload, even by mistake. Verified
+on real hardware: survives service death and reboot, recovers missed shots.
 
-Validated through a formal feasibility gate and per-milestone device verification on real
-MIUI/HyperOS hardware: live detection via a foreground-service `ContentObserver`, survival across
-service death and reboot, catch-up recovery with a watermark, and a correction loop that records
-every misclassification so the classifier is tuned from real data instead of self-agreeing fixtures.
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&theme=dark" height="26" />
 
-`Kotlin` · `Jetpack` · `MediaStore` · foreground services · Gradle KTS
+</td>
+<td width="50%" valign="top">
 
----
+### 💡 EngeleBlur
+
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Martin-Atanasov123/EngeleBlur)
+
+Blurs and darkens your screen when the **laptop lid angle drops** — estimated from the
+webcam alone, no extra sensors.
+
+A small, sharp idea: shoulder-surfing protection that needs no hardware.
+
+<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" height="26" />
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>More projects</b> — portfolio, e-commerce, games & experiments</summary>
+<summary><b>📦 More projects</b> — portfolio, e-commerce, games & experiments</summary>
 
 <br>
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Portfolio**](https://martin-atanasov.netlify.app/) | My personal site | `TypeScript` `React` `CSS` |
+| [**Portfolio**](https://martin-atanasov.netlify.app/) | My personal site | `TypeScript` `React` |
 | [**MarketPlace**](https://github.com/Martin-Atanasov123/MarketPlace) | Full-stack marketplace — SoftUni defence project | `JavaScript` `Node` `Express` |
-| [**EngeleBlur**](https://github.com/Martin-Atanasov123/EngeleBlur) | Blurs and darkens the screen when the laptop lid angle drops, estimated from the webcam | `Python` `OpenCV` |
 | [**Chess**](https://martin-atanasov123.github.io/Chess-Game/) | Browser chess with full move legality | `JavaScript` |
 | [**Rubik's Cube**](https://github.com/Martin-Atanasov123/Rubik-Cube) | Interactive 3D cube | `TypeScript` |
-| [**Quiz Game**](https://martin-atanasov123.github.io/Quiz-Game/) · [**Millionaire**](https://martin-atanasov123.github.io/Who-Wants-to-Be-a-Millionaire/) | Quiz engines with scoring & lifelines | `JavaScript` |
+| [**Quiz**](https://martin-atanasov123.github.io/Quiz-Game/) · [**Millionaire**](https://martin-atanasov123.github.io/Who-Wants-to-Be-a-Millionaire/) | Quiz engines with scoring & lifelines | `JavaScript` |
 | [**Puzzle**](https://martin-atanasov123.github.io/Puzzel/) · [**Matching**](https://martin-atanasov123.github.io/Matching-game/) · [**Tic-Tac-Toe**](https://github.com/Martin-Atanasov123/tic-tac-toe) | Logic & memory games | `JavaScript` |
 | [**On-Screen Keyboard**](https://martin-atanasov123.github.io/Keyboard/) | Virtual keyboard with live input | `JavaScript` |
 | [**Restaurant Menu**](https://martin-atanasov123.github.io/Restaurant-menu/) · [**Knives Site**](https://martin-atanasov123.github.io/knives-site/) | Early client-style sites | `HTML` `CSS` `JS` |
 
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
+</div>
 
-## Tech Stack
+## ⚙️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=ts,js,cs,python,kotlin,postgres&theme=dark)](#)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge&logo=react&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,threejs,html,css&theme=dark)](#)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,docker&theme=dark)](#)
 
 **Desktop & Mobile**
 
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF_/_WinUI-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Android_Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+[![Desktop](https://skillicons.dev/icons?i=dotnet,cs,androidstudio,kotlin,gradle,powershell&theme=dark)](#)
 
-**AI & Local ML**
+**Tooling**
 
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+[![Tooling](https://skillicons.dev/icons?i=git,githubactions,vitest,netlify,vscode,figma&theme=dark)](#)
 
-**Testing & Tooling**
+<sub>Also: `Fastify` · `Socket.IO` · `Zustand` · `Framer Motion` · `Whisper` · `Ollama` · `WPF / WinUI` · `pytest`</sub>
 
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
 
----
+</div>
 
-## How I Work
+## 🧭 How I Work
 
-| | Practice | In the code |
-|---|---|---|
-| 🧪 | **Pure cores, tested as contracts** | `Belot`'s engine has no `Date.now()`, no I/O, no randomness outside a seeded `mulberry32` — so 102 tests assert *scoring behaviour*, not implementation, and refactors stay safe |
-| 📐 | **Decisions written down** | `ARCHITECTURE.md`, `TECH_DECISIONS.md`, `DECISIONS.md` and `SPEC.md` live beside the code, with trade-offs stated |
-| 📊 | **Budgets, measured** | Performance targets are published with measured numbers — including the ones I **missed** and why |
-| 🔬 | **Verified on real hardware** | Feasibility gates and per-milestone device verification on an actual phone, because fixtures written by the rule-author agree with themselves by construction |
+| | | |
+|:--:|---|---|
+| 🧪 | **Pure cores, tested as contracts** | Belot's engine has no `Date.now()`, no I/O, no randomness outside a seeded PRNG — so tests assert *scoring behaviour*, and refactors stay safe |
+| 📊 | **Budgets, measured** | Performance targets published with real numbers, including the ones I **missed** and why |
+| 🔬 | **Verified on real hardware** | Feasibility gates and device verification on an actual phone — fixtures written by the rule-author agree with themselves by construction |
 | 🚢 | **Tagged releases** | Versioned builds, changelogs and installers, not just a `main` branch |
-| 🔐 | **Privacy as architecture** | Omit the permission, bind to `127.0.0.1`, send hostnames instead of URLs — enforced structurally, not promised in a policy |
-| 🤖 | **AI-assisted velocity** | Agentic workflows for prototyping and review, with the engineering rigour above as the guard rail |
+| 🔐 | **Privacy as architecture** | Omit the permission, bind to localhost — enforced structurally, not promised in a policy |
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
+</div>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -291,26 +253,24 @@ every misclassification so the classifier is tuned from real data instead of sel
 
 </div>
 
----
-
-## Beyond Code
+## 🎸 Beyond Code
 
 Quantitative strategy games and capital markets — the same appeal as a deterministic rules
-engine: fixed rules, incomplete information, decisions under uncertainty. And guitar 🎸.
-
----
+engine: fixed rules, incomplete information, decisions under uncertainty. And guitar.
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
 
 ### Let's build something
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-martin--atanasov.netlify.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martin-atanasov.netlify.app/)
-[![Email](https://img.shields.io/badge/Get_in_touch-matanasov573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matanasov573@gmail.com)
+[![Email](https://img.shields.io/badge/matanasov573@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matanasov573@gmail.com)
 
 <br>
 
 > **“Execution beats ideas that never leave the notebook.”**
 
-<sub>Thanks for stopping by — have a look at <a href="https://uniput.eu/">УниПът</a> or grab <a href="https://github.com/Martin-Atanasov123/EdgeStage/releases/latest">EdgeStage</a>.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1f3b73,100:0a0e17&height=120&section=footer" width="100%" alt="" />
 
 </div>
