@@ -241,20 +241,6 @@ A small, sharp idea: shoulder-surfing protection that needs no hardware.
 
 </div>
 
-## 🧭 How I Work
-
-| | | |
-|:--:|---|---|
-| 🧪 | **Pure cores, tested as contracts** | Belot's engine has no `Date.now()`, no I/O, no randomness outside a seeded PRNG — so tests assert *scoring behaviour*, and refactors stay safe |
-| 📊 | **Budgets, measured** | Performance targets published with real numbers, including the ones I **missed** and why |
-| 🔬 | **Verified on real hardware** | Feasibility gates and device verification on an actual phone — fixtures written by the rule-author agree with themselves by construction |
-| 🚢 | **Tagged releases** | Versioned builds, changelogs and installers, not just a `main` branch |
-| 🔐 | **Privacy as architecture** | Omit the permission, bind to localhost — enforced structurally, not promised in a policy |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:1f6feb,100:0a0e17&height=3" width="100%" alt="" />
-</div>
-
 ## 📊 GitHub Activity
 
 <div align="center">
