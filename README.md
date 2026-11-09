@@ -17,6 +17,24 @@
 
 ## 👋 About
 
+```yaml
+name:        Martin Atanasov
+located_in:  Pleven, Bulgaria
+role:        Product Engineer
+platforms:   [ Web, Windows, Android ]
+
+principles:
+  - local-first by architecture, not by policy
+  - pure cores, so correctness can be proven
+  - budgets measured, including the ones I miss
+
+currently_shipping: [ УниПът, Nowdrop, EdgeStage ]
+exploring:          [ on-device AI, Win32 interop, offline-first sync ]
+
+reach_me_at: matanasov573@gmail.com
+open_to:     [ collaboration, freelance, full-time ]
+```
+
 I build **complete products** across web, Windows and Android — each one shipping with a
 tested core, written architecture decisions, measured performance budgets, and a release
 people can actually download.
@@ -244,6 +262,12 @@ A small, sharp idea: shoulder-surfing protection that needs no hardware.
 ![Followers](https://img.shields.io/github/followers/Martin-Atanasov123?style=for-the-badge&logo=github&logoColor=white&color=0a0e17&labelColor=161b22)
 ![Stars](https://img.shields.io/github/stars/Martin-Atanasov123?style=for-the-badge&logo=github&logoColor=white&color=0a0e17&labelColor=161b22)
 ![Profile views](https://komarev.com/ghpvc/?username=Martin-Atanasov123&style=for-the-badge&color=0a0e17&label=PROFILE+VIEWS)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Martin-Atanasov123/Martin-Atanasov123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martin-Atanasov123/Martin-Atanasov123/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Martin-Atanasov123/Martin-Atanasov123/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" width="98%" />
+</picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martin-Atanasov123&theme=tokyonight" alt="Profile overview: commits, stars, repositories and contribution timeline" width="98%" />
 
